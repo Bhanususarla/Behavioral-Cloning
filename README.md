@@ -1,4 +1,7 @@
 # Behavioral-Cloning
+
+In this project, I used deep neural networks and convolutional neural networks to clone driving behavior. I trained, validated and tested a model using Keras. The model outputs a steering angle to an autonomous vehicle.
+
 1. My project includes the following files:
 2. model.py containing the script to create and train the model
 3. drive.py for driving the car in autonomous mode
